@@ -1,2 +1,2 @@
 # Tron
-TRON multi player game in java 
+TRON multiPlayer game in java 
